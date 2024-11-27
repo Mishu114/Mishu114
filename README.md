@@ -4,14 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishu114&label=Profile%20views&color=0e75b6&style=flat" alt="mishu114" /> </p>
 
-🎓 Computer Science & Engineering Graduate
+🎓 Computer Science & Engineering Graduate  
 🏫 Khulna University of Engineering and Technology
 <br>
-🏅 Competitive Programmer
+🏅 Competitive Programmer  
 💻 Specialist on Codeforces with a strong foundation in C++.
 <br>
-🎮 Former Game Developer
-Gained expertise in C# and Unity, building engaging gaming experiences.
+🎮 Former Game Developer  
+🕹️ Gained expertise in C# and Unity, building engaging gaming experiences.
 <br>
 💻 Software Engineer & Full-Stack Web Developer in Training
 
