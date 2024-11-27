@@ -6,17 +6,18 @@
 
 🎓 Computer Science & Engineering Graduate
 🏫 Khulna University of Engineering and Technology
-
+<br>
 🏅 Competitive Programmer
-
-Specialist on Codeforces with a strong foundation in C++.
+💻 Specialist on Codeforces with a strong foundation in C++.
+<br>
 🎮 Former Game Developer
-
 Gained expertise in C# and Unity, building engaging gaming experiences.
-💻 Software Engineer & Full-Stack Developer in Training
+<br>
+💻 Software Engineer & Full-Stack Web Developer in Training
 
 Exploring the world of web development with JavaScript, Node.js, React.js, and Vue.js.
 Passionate about crafting seamless, efficient, and user-centric solutions.
+<br>
 🌟 Always Learning | Always Building | Always Growing
 
 Feel free to tweak it further to match your preferences! 😊
