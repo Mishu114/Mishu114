@@ -1,4 +1,5 @@
-![Software Engineer.](https://media.licdn.com/dms/image/v2/D5616AQE5eyRTGhWhlQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732729080330?e=1738195200&v=beta&t=UWBs1ZsmTA_Ooarm73_4LRzeAu3y8KWJROjAlmNWCnQ)
+![Software Engineer.](https://github.com/user-attachments/assets/155f4902-17f9-4a82-8e86-315e69732754)
+
 <h1 align="center">Hi 👋, I'm Mishu Baidya</h1>
 <h3 align="center">A passionate Software Enginner from Bangladesh</h3>
 
